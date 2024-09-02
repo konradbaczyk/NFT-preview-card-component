@@ -7,5 +7,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Github with code](https://github.com/konradbaczyk/E-commerce-product-page)
-- Live site URL: [Live site](https://konradbaczyk.github.io/E-commerce-product-page/)
+- Solution URL: [Github with code](https://github.com/konradbaczyk/NFT-preview-card-component)
+- Live site URL: [Live site](https://konradbaczyk.github.io/NFT-preview-card-component/)
